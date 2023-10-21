@@ -1,8 +1,8 @@
 <h2> 👋 Hi, I’m Phearun. 👋</h2>
-<p><em>Software Engineer | Entrepreneur | Frontend Developer</br>
+<p><em>Software Engineer | Full Stack Developer</br>
 Get in touch 
 - 👉 <a href="mailto:phin.phearun9@gmail.com" target="_blank">phin.phearun9@gmail.com</a></em></p>
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/phearun-phin/)
+- 📫 How to reach me [LinkedIn] https://www.linkedin.com/in/phearun-phin/
 
   ## About me...  
 - 🥇 Java Developer Expert
