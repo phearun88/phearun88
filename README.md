@@ -1,5 +1,15 @@
-### Hi there 👋
+<h2> 👋 Hi, I’m Phearun. 👋</h2>
+<p><em>Software Engineer | Entrepreneur | Frontend Developer</br>
+Get in touch 
+- 👉 <a href="mailto:phin.phearun9@gmail.com" target="_blank">phin.phearun9@gmail.com</a></em></p>
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/phearun-phin/)
 
+  ## About me...  
+- 🥇 Java Developer Expert
+- 👯 I love coding, cooking, working out and hiking.
+- 🌱 I’m currently learning Spring Framework, Angular and all phases of software development life cycle.
+- 💞️ I’m looking for a new opportunity in software development.
+- 💬 Ask me about Java, Angular, Javascript, CSS.
 <!--
 **phearun88/phearun88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
