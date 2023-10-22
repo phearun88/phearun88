@@ -10,7 +10,7 @@
   ## About me...  
 - 🥇 Java Developer Expert
 - 👯 I love coding, cooking, working out and hiking.
-- 🌱 I’m currently build my Professional Development as a software Developer, Java ,Angular React and all phases of software development life cycle.
+- 🌱 I’m currently build my Professional Development as a software Developer.
 - 💞️ I’m looking for a new opportunity in software development.
 - 💬 Ask me about Java, Angular, Javascript, CSS.
 <!--
