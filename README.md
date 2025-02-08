@@ -8,7 +8,7 @@
 👉 Get in touch  <a href="mailto:phin.phearun9@gmail.com" target="_blank">phin.phearun9@gmail.com</a></em></p>
 
   ## About me...  
-- 🥇 Java Developer Expert
+- 🥇 C# Developer Expert
 - 👯 I love coding, cooking, working out and hiking.
 - 🌱 I’m currently build my Professional Development as a software Developer.
 - 💞️ I’m looking for a new opportunity in software development.
