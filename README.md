@@ -12,7 +12,7 @@
 - 👯 I love coding, cooking, working out and hiking.
 - 🌱 I’m currently build my Professional Development as a software Developer.
 - 💞️ I’m looking for a new opportunity in software development.
-- 💬 Ask me about Java, Angular, Javascript, CSS.
+- 💬 Ask me about C#, Angular, TypeScript Javascript, CSS.
 <!--
 **phearun88/phearun88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
