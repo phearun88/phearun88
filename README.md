@@ -5,7 +5,7 @@
 📫 [LinkedIn]: [![Linkedin: Phearun Phin](https://img.shields.io/badge/-PhearunPhin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phearun-phin/)](https://www.linkedin.com/in/phearun-phin/)
  | 🚀 [About Me]: [![Portfolio: Phearun Phin](https://img.shields.io/badge/-PhearunPhin-orange?style=flat-square)](https://phearun88.github.io/)
 
-👉 Get in touch  <a href="mailto:phin.phearun9@gmail.com" target="_blank">phin.phearun9@gmail.com</a></em></p>
+👉 Get in touch  <a href="mailto:phearunphin3@gmail.com" target="_blank">phearunphin3@gmail.com</a></em></p>
 
   ## About me...  
 - 🥇 Python Developer Expert
