@@ -8,12 +8,12 @@
 👉 Get in touch  <a href="mailto:phin.phearun9@gmail.com" target="_blank">phin.phearun9@gmail.com</a></em></p>
 
   ## About me...  
-- 🥇 C# Developer Expert
 - 🥇 Python Developer Expert
+- 🥇 AI Agent Expert
 - 👯 I love coding, cooking, working out and hiking.
 - 🌱 I’m currently build my Professional Development as a software Developer.
 - 💞️ I’m looking for a new opportunity in software development.
-- 💬 Ask me about C#, Angular, TypeScript Javascript, CSS.
+- 💬 Ask me about Python, AI Agent, React, TypeScript Javascript, CSS.
 <!--
 **phearun88/phearun88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
