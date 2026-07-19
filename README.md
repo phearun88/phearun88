@@ -8,12 +8,13 @@
 👉 Get in touch  <a href="mailto:phearunphin8@gmail.com" target="_blank">phearunphin8@gmail.com</a></em></p>
 
   ## About me...  
-- 🥇 Python Developer Expert
-- 🥇 AI Agent Expert
-- 👯 I love coding, cooking, working out and hiking.
-- 🌱 I’m currently build my Professional Development as a software Developer.
-- 💞️ I’m looking for a new opportunity in software development.
-- 💬 Ask me about Python, AI Agent, React, TypeScript Javascript, CSS.
+- 🥇 Full-Stack .NET Developer
+- 💻 Passionate about building scalable web applications with C# and .NET
+- 🤖 Exploring AI-powered applications and modern development tools
+- 👯 I love coding, cooking, working out, and hiking.
+- 🌱 I'm continuously improving my skills in .NET, cloud technologies, and software architecture.
+- 💞️ I'm looking for new opportunities in software development.
+- 💬 Ask me about C#, .NET, ASP.NET Core, Web API, Entity Framework Core, SQL Server, React, JavaScript, TypeScript, Azure, and Git.
 <!--
 **phearun88/phearun88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
